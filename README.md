@@ -17,7 +17,14 @@ The dot product of two vectors $ {\displaystyle \mathbf {a} =[a_{1},a_{2},\cdots
 
 $$ \displaystyle \sum_{k=3}^{5} k^2 = 3^2 + 4^2 + 5^2 = 50 $$
 
+
+
 ## Python Code for Dot-Product
+
+### Different Methods to Implement
+1. For loop
+2. Naive Approach
+3. Numpy
 
 > [!TIP]
 > Copy this code and try to run in your local machine
